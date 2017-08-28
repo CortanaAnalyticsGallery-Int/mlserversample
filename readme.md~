@@ -1,0 +1,8 @@
+# Samples for using RevoScalePy and MicrosoftML packages
+
+Please use Docker (local or remote) to try these samples.
+
+```
+# execute against local docker container
+$ az ml execute start -c docker adult_census.py
+```
